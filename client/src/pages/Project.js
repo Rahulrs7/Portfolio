@@ -14,13 +14,13 @@ const projectsData = [
   {
     title: "Tic Tac Toe Game",
     imgSrc: img4,
-    badges: ["React Native", "iOS / Android"],
+    badges: ["React.js", "vite"],
     link: "https://tictactoe-game-gamma.vercel.app/",
   },
   {
     title: "Campgrounds",
     imgSrc: image,
-    badges: ["React Native", "iOS / Android"],
+    badges: ["React", "Nodejs","Mongodb"],
     link: "https://campinfo.onrender.com/campgrounds",
   },
   // Additional projects can be added here...
